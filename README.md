@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Qingru Hu.
-- 👀 I’m interested in Astronomy.
+- 👀 I’m interested in Astronomy, especially in exoplanets.
 - 🌱 I’m currently learning in Tsinghua University.
 - 💞️ I’m looking to collaborate on Python programmes.
-- 📫 Reach me at 1228606655@qq.com.
+- 📫 Reach me at huqr20@mails.tsinghua.edu.cn.
 
 [![Qingru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ella20hqr)](https://github.com/anuraghazra/github-readme-stats)
 
